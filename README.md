@@ -10,6 +10,7 @@ I'm a user that goes by the name of Leqend or Legend, whichever is your preferen
 - Java & Python Developer
 - Love playing escape rooms
 - Passionate for solving problems
+- Simp for Ayaka <3 
 
 <div id="header" align="center">
     <h1>
