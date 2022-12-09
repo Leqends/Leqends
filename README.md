@@ -6,11 +6,10 @@ About Me
 
 </div>
 
-I'm a user that goes by the name of Leqend or Legend, whichever is your preference. My hobbies consist of many things, such as playing ~~Genshin Impact~~ the hit first-person shooter: Valorant.
+I'm a user that goes by the name of Leqend or Legend, whichever is your preference. 
 - Java & Python Developer
 - Love playing escape rooms
 - Passionate for solving problems
-- Simp for Ayaka <3 
 
 <div id="header" align="center">
     <h1>
